@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="apache-thrift-netcore" Version="0.9.3.2" />
+    <PackageReference Include="HslCommunication" Version="5.0.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ThriftLibrary">
+      <HintPath>..\ThriftLibrary\bin\Debug\netcoreapp2.0\ThriftLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

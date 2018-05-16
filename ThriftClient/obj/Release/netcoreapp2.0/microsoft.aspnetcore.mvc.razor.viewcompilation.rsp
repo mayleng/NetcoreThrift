@@ -1,0 +1,11 @@
+C:\Users\bonree\Desktop\webapi\netcore\NetcoreThrift\ThriftClient
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=ThriftClient
+--content-root=C:\Users\bonree\Desktop\webapi\netcore\NetcoreThrift\ThriftClient
+--file=C:\Users\bonree\Desktop\webapi\netcore\NetcoreThrift\ThriftClient\Pages\About.cshtml
+--file=C:\Users\bonree\Desktop\webapi\netcore\NetcoreThrift\ThriftClient\Pages\Contact.cshtml
+--file=C:\Users\bonree\Desktop\webapi\netcore\NetcoreThrift\ThriftClient\Pages\Error.cshtml
+--file=C:\Users\bonree\Desktop\webapi\netcore\NetcoreThrift\ThriftClient\Pages\Index.cshtml
+--file=C:\Users\bonree\Desktop\webapi\netcore\NetcoreThrift\ThriftClient\Pages\_Layout.cshtml
+--file=C:\Users\bonree\Desktop\webapi\netcore\NetcoreThrift\ThriftClient\Pages\_ValidationScriptsPartial.cshtml
+--file=C:\Users\bonree\Desktop\webapi\netcore\NetcoreThrift\ThriftClient\Pages\_ViewImports.cshtml

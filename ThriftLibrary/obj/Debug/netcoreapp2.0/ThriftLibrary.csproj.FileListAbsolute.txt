@@ -1,0 +1,9 @@
+C:\Users\bonree\Desktop\webapi\netcore\NetcoreThrift\ThriftLibrary\bin\Debug\netcoreapp2.0\ThriftLibrary.deps.json
+C:\Users\bonree\Desktop\webapi\netcore\NetcoreThrift\ThriftLibrary\bin\Debug\netcoreapp2.0\ThriftLibrary.dll
+C:\Users\bonree\Desktop\webapi\netcore\NetcoreThrift\ThriftLibrary\obj\Debug\netcoreapp2.0\ThriftLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bonree\Desktop\webapi\netcore\NetcoreThrift\ThriftLibrary\obj\Debug\netcoreapp2.0\ThriftLibrary.AssemblyInfoInputs.cache
+C:\Users\bonree\Desktop\webapi\netcore\NetcoreThrift\ThriftLibrary\obj\Debug\netcoreapp2.0\ThriftLibrary.AssemblyInfo.cs
+C:\Users\bonree\Desktop\webapi\netcore\NetcoreThrift\ThriftLibrary\obj\Debug\netcoreapp2.0\ThriftLibrary.csprojResolveAssemblyReference.cache
+C:\Users\bonree\Desktop\webapi\netcore\NetcoreThrift\ThriftLibrary\bin\Debug\netcoreapp2.0\ThriftLibrary.pdb
+C:\Users\bonree\Desktop\webapi\netcore\NetcoreThrift\ThriftLibrary\obj\Debug\netcoreapp2.0\ThriftLibrary.dll
+C:\Users\bonree\Desktop\webapi\netcore\NetcoreThrift\ThriftLibrary\obj\Debug\netcoreapp2.0\ThriftLibrary.pdb
